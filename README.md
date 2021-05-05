@@ -14,7 +14,7 @@ Code->
 Flask folder contains module1.py which has the backend code.
 There are two html files. one.html and two.html 
 
-Data-> There are two Pdf files IRC and Morth
+Data-> There is Pdf files IRC
 
 Index12.py-
 1]Individual pdf files are converted to jpg images using online converted.Then saved in the computer.
@@ -25,8 +25,7 @@ For Morth relevant pages are page_3 to page_848
 
 Text files are saved in folders IRCnew3 and Morthnew. They are named as demofile1,demofile2....
 
-3]Mappings for elastic search are made .Index some36 is created for those mappings.For every text file paragraphs are extracted and indexed 
-into elastic search as documents.  For IRC it is done for demofile1 to demofile10.For Morth it is done for demofile3 to demofile848
+3]Mappings for elastic search are made .Index some36 is created for those mappings.For every text file paragraphs are extracted and indexed into elastic search as documents.  For IRC it is done for demofile1 to demofile10.For Morth it is done for demofile3 to demofile848
 
 ID is stored as filename/pageno/paragraph no. First index for IRC .Then for Morth
 
