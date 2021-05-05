@@ -1,4 +1,4 @@
-# LnT Engineering Knowledge Bot
+# Information Retreival System
 
 Installation
 1] Elastic Search- conda install -c conda-forge elasticsearch 
@@ -6,7 +6,7 @@ Installation
 3]Tesseract OCR-conda install -c conda-forge tesseract
 
 
-Code-> Codes7 folder contains the codes for the project.
+Code-> 
 
 
 1] Index12.py contains pdf to text conversion along with bulk indexing it into elastic search.
